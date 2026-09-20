@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="border-bottom: none; margin-bottom: 0;">ical-export</h1>
   <h3 style="margin-top: 0; font-weight: normal;">
-    a macos eventkit app that dumps a date window to json, recurrences expanded
+    export your icloud calendar to json
   </h3>
 </div>
 
